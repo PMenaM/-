@@ -18,4 +18,4 @@
 
 # Ссылки на резюме
   + [резюме](https://spb.hh.ru/resume/88b9b46cff0bfd0f880039ed1f7a7076507353)
-  + [профиль на LinkedIn (На английском языке)](https://www.linkedin.com/in/pablomenamnlp)
+  + [профиль на LinkedIn (на английском языке)](https://www.linkedin.com/in/pablomenamnlp)
