@@ -1,7 +1,7 @@
 # Портфолио проектов Pablo Mena
 Список проектов, выполненных в области Data Science и ее различных подобластях.
 
-| Область проекта/год | Название проекта | Описание                         | Вклад                        | Стек и методы |        
+| Область проекта/год | Название проекта | Описание                         | Достижения                        | Стек и методы |        
 |--- |--- |------------------------- |------------------------------- | --- |                
 |     |     |     |     | Предложения CASE (WHEN, THEN), Агрегатные функции (EXTRACT, SUM, ROUND), Предложения фильтрации (WHERE, GROUP BY, ORDER BY) |
 | Machine Learning/2023 | [Assessing Customer Churn Using Machine Learning](https://github.com/PMenaM/Projects/blob/main/Assessing%20Customer%20Churn%20Using%20Machine%20Learning%20(Jupyter%20Notebook)/Assessing%20Customer%20Churn%20Using%20Machine%20Learning%20(Jupyter%20Notebook).ipynb) | Использование Pandas и машинного обучения для изучения наборов данных ведущих индийских телекоммуникационных компаний, выявления демографических моделей и моделей использования. Прогнозирование удержания клиентов, объединение анализа данных и прогнозного моделирования.                                                                        |  | Pandas, Sklearn, машинное обучение, анализ данных, предварительная обработка, создание экземпляров, StandardScaler, обучение, подгонка, train_test_split, проверка, прогнозирование, LogisticRegression, RandomForestClassifier, оценка, classification_report, confusion_matrix |
